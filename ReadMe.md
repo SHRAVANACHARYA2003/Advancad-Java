@@ -9,8 +9,8 @@ This repository showcases a diverse set of **advanced Java programs** covering t
 
 Inside the `ListInterface` package, you’ll find several practical examples related to Java collections:
 🌈Array Programs
-     🧩ListInterfaceDemo.java – Demonstrates key operations using both ArrayList and LinkedList.
-     🎯ColorSearchInArrayList.java – Search for a specific color in an ArrayList
+🧩ListInterfaceDemo.java – Demonstrates key operations using both ArrayList and LinkedList.
+🎯ColorSearchInArrayList.java – Search for a specific color in an ArrayList
      ❌RemoveColorFromArrayList.java – Remove a specified color from the list
      🔃SortColorsInArrayList.java – Sort the elements of an ArrayList
      ✂️SubListFromArrayList.java – Extract a sublist from an existing ArrayList
