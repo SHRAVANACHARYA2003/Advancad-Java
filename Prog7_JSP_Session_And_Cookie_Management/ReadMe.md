@@ -1,0 +1,10 @@
+OUTPUTS:
+
+SessionManagementJSP:
+https://github.com/SHRAVANACHARYA2003/Advancad-Java/blob/9f2ac2255a18a238330f10dcebac7ac9f559ece4/Prog7_JSP_Session_And_Cookie_Management/Prog_7_Output/SessionManagementJSP.png
+&&https://github.com/SHRAVANACHARYA2003/Advancad-Java/blob/9f2ac2255a18a238330f10dcebac7ac9f559ece4/Prog7_JSP_Session_And_Cookie_Management/Prog_7_Output/%26%26SessionManagementJSP.png
+
+CookieManagementJSP:
+https://github.com/SHRAVANACHARYA2003/Advancad-Java/blob/9f2ac2255a18a238330f10dcebac7ac9f559ece4/Prog7_JSP_Session_And_Cookie_Management/Prog_7_Output/CookieManagementJSP.png
+&&https://github.com/SHRAVANACHARYA2003/Advancad-Java/blob/9f2ac2255a18a238330f10dcebac7ac9f559ece4/Prog7_JSP_Session_And_Cookie_Management/Prog_7_Output/%26CookieManagementJSP.png
+&&https://github.com/SHRAVANACHARYA2003/Advancad-Java/blob/9f2ac2255a18a238330f10dcebac7ac9f559ece4/Prog7_JSP_Session_And_Cookie_Management/Prog_7_Output/%26%26CookieManagementJSP.png

@@ -1,0 +1,13 @@
+OUTPUTS:
+
+CountryListSwing:
+https://github.com/SHRAVANACHARYA2003/Advancad-Java/blob/9f2ac2255a18a238330f10dcebac7ac9f559ece4/Prog5_JList_and_JTabbedPane_in_Swing/src/SwingOperations/Prog_5_Output/CountryListSwing.png
+
+ColorTabbedPane:
+https://github.com/SHRAVANACHARYA2003/Advancad-Java/blob/9f2ac2255a18a238330f10dcebac7ac9f559ece4/Prog5_JList_and_JTabbedPane_in_Swing/src/SwingOperations/Prog_5_Output/ColorTabbedPane.png
+
+CountryCapitalListSwing:
+https://github.com/SHRAVANACHARYA2003/Advancad-Java/blob/9f2ac2255a18a238330f10dcebac7ac9f559ece4/Prog5_JList_and_JTabbedPane_in_Swing/src/SwingOperations/Prog_5_Output/CountryCapitalListSwing.png
+
+CmyTabbedPaneSwing:
+https://github.com/SHRAVANACHARYA2003/Advancad-Java/blob/9f2ac2255a18a238330f10dcebac7ac9f559ece4/Prog5_JList_and_JTabbedPane_in_Swing/src/SwingOperations/Prog_5_Output/CmyColorTabbedPaneSwing.png
