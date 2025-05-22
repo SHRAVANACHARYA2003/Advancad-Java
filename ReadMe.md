@@ -8,12 +8,20 @@ This repository showcases a diverse set of **advanced Java programs** covering t
 ## 📚 List and ArrayList Operations
 
 Inside the `ListInterface` package, you’ll find several practical examples related to Java collections:
+🌈Array Programs
+     🧩ListInterfaceDemo.java – Demonstrates key operations using both ArrayList and LinkedList.
+     🎯ColorSearchInArrayList.java – Search for a specific color in an ArrayList
+     ❌RemoveColorFromArrayList.java – Remove a specified color from the list
+     🔃SortColorsInArrayList.java – Sort the elements of an ArrayList
+     ✂️SubListFromArrayList.java – Extract a sublist from an existing ArrayList
+     🧹RemoveElementFromArrayList.java – Remove specific elements from an ArrayList.
 
-- Search for colors in an `ArrayList`
-- Remove specific elements from `ArrayList`
-- Sort and sublist operations
-- Manipulate `LinkedList` using insert, delete, and iterate operations
-- Reverse and swap nodes in a linked list
+ 🔗LinkedList Programs
+     ⏩LinkedListIteratorFromSecond.java – Iterate through a LinkedList starting from the second node.
+     🔁ReverseLinkedList.java – Reverse the elements in a LinkedList.
+     ➕InsertEndInLinkedList.java – Insert a new element at the end of the list.
+     🧾DisplayLinkedListElementsAndPositions.java – Print each element along with its index.
+     🔄SwapLinkedListElements.java – Swap two elements in a LinkedList
 
 ---
 
